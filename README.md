@@ -3,3 +3,6 @@
 
 # MithScape
 This is a clone of the 2007-2009 era website of Runescape, before EOC was introduced into the game. Basically Runescape 2. So no OSRS, but also not RS3. This represents the Runescape peak back in the day.
+
+# Note
+Some things such as the Forum, and Knowledge base doesn't entirely work yet.
